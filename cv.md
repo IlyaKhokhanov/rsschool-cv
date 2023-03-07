@@ -41,8 +41,8 @@ function findOutlier(integers){
 
 ## Education
 
-- Read JavaScript textbook on [learn.javascript.ru] (https://learn.javascript.ru/)
-- In the process of reading React manual on [reactjs.org] (https://reactjs.org/)
+- Read JavaScript textbook on [learn.javascript.ru](https://learn.javascript.ru/)
+- In the process of reading React manual on [reactjs.org](https://reactjs.org/)
 
 ## Languages
 
