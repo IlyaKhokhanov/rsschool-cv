@@ -36,8 +36,8 @@ function findOutlier(integers){
 
 ## Work experience
 
-- [TODO with Drag & Drop] (https://ilyakhokhanov.github.io/DNDtodo/)
-- In process write application on React with dictionary and tests on Russian language. [Repository with App] (https://github.com/IlyaKhokhanov/dictionary_and_test)
+- [TODO with Drag & Drop](https://ilyakhokhanov.github.io/DNDtodo/)
+- In process write application on React with dictionary and tests on Russian language. [Repository with App](https://github.com/IlyaKhokhanov/dictionary_and_test)
 
 ## Education
 
