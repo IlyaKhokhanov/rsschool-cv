@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.photo {
+  float: left;
+  width: 200px;
+  height: 203px;
+  border-radius: 50%;
+  border: 2px solid #111;
+  background-image: url(./photo.jpg);
+  background-position: center;
+  background-size: cover;
+}
